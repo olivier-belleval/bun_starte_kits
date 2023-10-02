@@ -28,7 +28,7 @@ use Express middleware
     - `src/services/` contains the services
     - `src/utils/` contains the utils
     - `src/utils/prismaClient.ts` is the entry point of the ORM
-    - `src/server.ts` is the entry point of the application
+    - `src/index.ts` is the entry point of the application
     - `src/routers` contains the routes
     - `src/middlewares` contains the middlewares
     - `src/types` contains the types
